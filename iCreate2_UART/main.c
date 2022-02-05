@@ -7,16 +7,16 @@
 #include "msp.h"
 #include <stdint.h>
 #include <string.h>
-#include "UART0.h"
-#include "EUSCIA0.h"
-#include "FIFO0.h"
-#include "Clock.h"
-#include "SysTick.h"
-#include "CortexM.h"
-#include "TimerA1.h"
-#include "Bump.h"
-#include "LaunchPad.h"
-#include "Motor.h"
+#include "inc\UART0.h"
+#include "inc\EUSCIA0.h"
+#include "inc\FIFO0.h"
+#include "inc\Clock.h"
+#include "inc\SysTick.h"
+#include "inc\CortexM.h"
+#include "inc\TimerA1.h"
+#include "inc\Bump.h"
+#include "inc\LaunchPad.h"
+#include "inc\Motor.h"
 
 // At 115200, the bandwidth = 11,520 characters/sec
 // 86.8 us/character
