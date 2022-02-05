@@ -28,52 +28,52 @@
 		<link>
 			<name>Bump.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/Bump.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/Bump.c</location>
 		</link>
 		<link>
 			<name>Clock.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/Clock.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/Clock.c</location>
 		</link>
 		<link>
 			<name>CortexM.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/CortexM.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/CortexM.c</location>
 		</link>
 		<link>
 			<name>EUSCIA0.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/EUSCIA0.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/EUSCIA0.c</location>
 		</link>
 		<link>
 			<name>FIFO0.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/FIFO0.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/FIFO0.c</location>
 		</link>
 		<link>
 			<name>LaunchPad.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/LaunchPad.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/LaunchPad.c</location>
 		</link>
 		<link>
 			<name>Motor.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/Motor.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/Motor.c</location>
 		</link>
 		<link>
 			<name>PWM.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/PWM.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/PWM.c</location>
 		</link>
 		<link>
 			<name>SysTick.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/SysTick.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/SysTick.c</location>
 		</link>
 		<link>
 			<name>TimerA1.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/TimerA1.c</locationURI>
+			<location>C:/git/iCreate2_UART/iCreate2_UART/inc/TimerA1.c</location>
 		</link>
 	</linkedResources>
 </projectDescription>
